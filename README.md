@@ -1,16 +1,20 @@
-## Hi there 👋
-
-<!--
-**butterg0d/butterg0d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Yep, that's me. You're probably wondering how I got here...
+- Info
+  - Brett Butterline
+  - Philadelphia PA  
+  - E-mail: brettbutterline@gmail.com
+- My GitHub
+  - I’m working on using GitHub and the Odin Project
+  - I’m currently learning Web and Software Development
+- Goals
+  - I would like to learn more about creating a home lab and cyber security
+  - I would like to understand embedded systems and foundational computer engineering
+  - I would like to learn cloud computing
+  - I would like to learn more about the future of AI and it outlook on the affects on modern computing languages and workflow
+  - I have a deep interest in the more creative coding environment
+- Projects of Interest
+  - Raspberry Pi DIY
+  - Arduino DIY
+  - Music Plugins Using C++ and Projuce
+  - WeB Design
+  - Open Source
