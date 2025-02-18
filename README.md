@@ -1,8 +1,4 @@
 # Yep, that's me. You're probably wondering how I got here...
-- Info
-  - Brett Butterline
-  - Philadelphia PA  
-  - E-mail: brettbutterline@gmail.com
 - My GitHub
   - I’m working on using GitHub and the Odin Project
   - I’m currently learning Web and Software Development
